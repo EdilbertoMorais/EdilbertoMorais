@@ -5,7 +5,7 @@
 - 🚚 Estou migrando de carreira, saindo do setor de transportes por onde passei 14 anos.
 - 💬 Pergunte-me sobre como esta sendo esta transição, e como foi que tomei essa decisão.
 - 📫  Você pode me achar no Linkedin: www.linkedin.com/in/edilbertocmorais
-- <a href="www.linkedin.com/in/edilbertocmorais">Linkedin</a>
+- <a href="https://www.linkedin.com/in/edilbertocmorais">Linkedin</a>
 ##
 
 <div>
