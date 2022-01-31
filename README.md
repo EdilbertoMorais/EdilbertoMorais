@@ -4,7 +4,7 @@
 - 🌱  Foco principal agora é aprender a linguagem JAVA.
 - 🚚 Estou migrando de carreira, saindo do setor de transportes por onde passei 14 anos.
 - 💬 Pergunte-me sobre como esta sendo esta transição, e como foi que tomei essa decisão.
-- 📫  Você pode me achar no  <a href="www.linkedin.com/in/edilbertocmorais">Linkedin</a>
+- 📫  Você pode me achar no Linkedin: www.linkedin.com/in/edilbertocmorais
 ##
 
 <div>
