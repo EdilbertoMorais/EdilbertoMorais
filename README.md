@@ -2,7 +2,7 @@
 
 - 🔭  Atualmente estou estudando Programação de Software na Alura.
 - 🌱  Foco principal agora é aprender a linguagem JAVA.
-- 🚚 Estou migrando de carreira, saindo do setor de transportes por onde passei 14 anos.
+- 🚚 Estou em transição de carreira, saindo do setor de transportes por onde passei longos 14 anos, me dedicando e aprendendo muito.
 - 💬 Pergunte-me sobre como esta sendo esta transição, e como foi que tomei essa decisão.
 - 📫  Você pode me achar no <a href="https://www.linkedin.com/in/edilbertocmorais">Linkedin</a>
 ##
