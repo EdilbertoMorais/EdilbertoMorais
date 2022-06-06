@@ -40,7 +40,7 @@
 Seja bem-vindo visitante! 👋
 <br>
 <br>
-<p align="center">Visitantes:</p>
+<p align="center">número:</p>
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/MariPadilha/count.svg"/></p>
    </p><hr>
 
