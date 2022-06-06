@@ -1,7 +1,7 @@
 ### <h1>Olá 👋! Eu sou Edilberto Morais</h1>
 
-- 🔭  Atualmente estou estudando Programação de Software na Alura.
-- 🌱  Foco principal agora é aprender a linguagem JAVA.
+- 🔭  Atualmente estou estudando Programação de Software na Alura e em outras plataformas.
+- 🌱  Foco principal agora é aprender a linguagem Elixir, no qual trabalho hoje na SolFácil e concluir o treinamento em Java.
 - 🚚 Estou em transição de carreira, saindo do setor de transportes por onde passei longos 14 anos, me dedicando e aprendendo muito.
 - 💬 Pergunte-me sobre como esta sendo esta transição, e como foi que tomei essa decisão.
 - 📫  Você pode me achar no <a href="https://www.linkedin.com/in/edilbertocmorais">Linkedin</a>
@@ -19,6 +19,7 @@
 <img align="center" alt="Edilberto-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 <img align="center" alt="Edilberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Edilberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Edilberto-ELIXIR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg">
  
 <img align="right" alt="Edilberto-pic" height="150" style="border-radius:50px;" src="https://docmanagement.com.br/wp-content/uploads/2021/01/1-7.jpg">
 </div>
