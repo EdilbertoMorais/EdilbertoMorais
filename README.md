@@ -36,7 +36,7 @@
  
  <h1 align="center"
     <p>
-Sejam bem-vindo visitante! 👋
+Seja bem-vindo visitante! 👋
 <br>
 <br>
 <p align="center">Visitantes:</p>
