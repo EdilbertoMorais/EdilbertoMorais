@@ -33,3 +33,14 @@
  
  ![Snake animation](https://github.com/EdilbertoMorais/EdilbertoMorais/blob/output/github-contribution-grid-snake.svg)
 </div>
+ 
+ <h1 align="center"
+    <p>
+Hi devs! Sejam bem-vindos ao meu perfil! 👋
+<br>
+<br>
+<p align="center">Visitantes:</p>
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/MariPadilha/count.svg"/></p>
+   </p><hr>
+
+</h1>
