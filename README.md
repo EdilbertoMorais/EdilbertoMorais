@@ -1,7 +1,7 @@
 ### <h1>Olá 👋! Eu sou Edilberto Morais</h1>
 
 - 🔭  Atualmente estou estudando Programação de Software na Alura e em outras plataformas.
-- 🌱  Foco principal agora é aprender a linguagem Elixir, no qual trabalho hoje na SolFácil e concluir o treinamento em Java.
+- 🌱  Foco principal agora é aprender a linguagem Elixir, no qual utilizo no trabalho hoje na SolFácil e concluir posteriormente minha formação em Java.
 - 🚚 Estou em transição de carreira, saindo do setor de transportes por onde passei longos 14 anos, me dedicando e aprendendo muito.
 - 💬 Pergunte-me sobre como esta sendo esta transição, e como foi que tomei essa decisão.
 - 📫  Você pode me achar no <a href="https://www.linkedin.com/in/edilbertocmorais">Linkedin</a>
