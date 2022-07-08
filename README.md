@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/edilbertocmorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:edilbertocmorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/Edilberto_Morais"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-<a href="https://exercism.org/profiles/EdilbertoMorais" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Exercism-logo.svg?logoColor=violet" target="_blank"></a>
+<a href="https://exercism.org/profiles/EdilbertoMorais" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Exercism-logo.svg?logoColor=gren" target="_blank"></a>
 
 
  ![Snake animation](https://github.com/EdilbertoMorais/EdilbertoMorais/blob/output/github-contribution-grid-snake.svg)
