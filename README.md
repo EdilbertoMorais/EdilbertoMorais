@@ -14,7 +14,7 @@
 </div -->
 
 <div>
-<img align="left" height="150" style="border-radius:50px; src="https://media.glassdoor.com/sqll/3133934/solf%C3%A1cil-energia-solar-e-servi%C3%A7os-financeiros-squareLogo-1661961864024.png"/>
+<img align="rigth" height="100" style="border-radius:50px; src="https://media.glassdoor.com/sqll/3133934/solf%C3%A1cil-energia-solar-e-servi%C3%A7os-financeiros-squareLogo-1661961864024.png"/>
 </div
 
 
