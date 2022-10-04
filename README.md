@@ -13,12 +13,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoMorais&layout=compact&langs_count=7&theme=radical"/>
 </div -->
 
-<div>
-<img align="rigth" height="100" style="border-radius:50px; src="https://media.glassdoor.com/sqll/3133934/solf%C3%A1cil-energia-solar-e-servi%C3%A7os-financeiros-squareLogo-1661961864024.png"/>
-</div
-
-
-
 ##
 <div style="display: inline_block"><br>
 <img align="center" alt="Edilberto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
