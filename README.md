@@ -2,16 +2,19 @@
 
 - 🔭  Atualmente estou estudando Programação de Software na Alura e em outras plataformas.
 - 🌱  Foco principal agora é aprender a linguagem Elixir, no qual utilizo no trabalho hoje na SolFácil e concluir posteriormente minha formação em Java.
-- 🚚 Estou em transição de carreira, saindo do setor de transportes por onde passei longos 14 anos, me dedicando e aprendendo muito.
-- 💬 Pergunte-me sobre como esta sendo esta transição, e como foi que tomei essa decisão.
+- 🚚  Estou em transição de carreira, saindo do setor de transportes por onde passei longos 14 anos, me dedicando e aprendendo muito.
+- 💬  Pergunte-me sobre como esta sendo esta transição, e como foi que tomei essa decisão.
 - 📫  Você pode me achar no <a href="https://www.linkedin.com/in/edilbertocmorais">Linkedin</a>
 ##
 
-<!-- <div>
-<a href="https://github.com/EdilbertoMorais">
+<div>
+ <h1>Para conhecer um pouco mais onde trabalho, clique na imagem abaixo:</h1>
+ <a href="https://landing.solfacil.com.br" target="_blank"><img align="center" width="980" alt="SF_wallpaper @2x" height="340" src="https://user-images.githubusercontent.com/93222241/194133331-e041a2b8-a4db-4291-89ef-b1d9ed844e9c.png">
+
+<!-- <a href="https://github.com/EdilbertoMorais">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilbertoMorais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoMorais&layout=compact&langs_count=7&theme=radical"/>
-</div -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoMorais&layout=compact&langs_count=7&theme=radical"/> -->
+</div
 
 ##
 <div style="display: inline_block"><br>
