@@ -20,7 +20,7 @@
 <img align="center" alt="Edilberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Edilberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Edilberto-ELIXIR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
- 
+
 <img align="right" alt="Edilberto-pic" height="150" style="border-radius:50px;" src="https://docmanagement.com.br/wp-content/uploads/2021/01/1-7.jpg">
 </div>
 
@@ -30,7 +30,8 @@
 <a href="https://www.linkedin.com/in/edilbertocmorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:edilbertocmorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/Edilberto_Morais"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-<a href = "https://exercism.org/profiles/EdilbertoMorais"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Exercism-logo.svg" target="_blank"></a>
+<!-- <a href = "https://exercism.org/profiles/EdilbertoMorais"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Exercism-logo.svg" target="_blank"></a> -->
+ <a href = "https://exercism.org/profiles/EdilbertoMorais"><img src="https://user-images.githubusercontent.com/93222241/194131757-b37e6c9f-97ea-4e42-b4d3-a1c473cd5522.png" target="_blank"></a>
 
 
  ![Snake animation](https://github.com/EdilbertoMorais/EdilbertoMorais/blob/output/github-contribution-grid-snake.svg)
