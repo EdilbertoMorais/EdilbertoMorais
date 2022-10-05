@@ -31,8 +31,7 @@
 <a href = "mailto:edilbertocmorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/Edilberto_Morais"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <!-- <a href = "https://exercism.org/profiles/EdilbertoMorais"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Exercism-logo.svg" target="_blank"></a> -->
- <a href = "https://exercism.org/profiles/EdilbertoMorais"><img src="https://user-images.githubusercontent.com/93222241/194131757-b37e6c9f-97ea-4e42-b4d3-a1c473cd5522.png" target="_blank"></a>
-
+ <a href = "https://exercism.org/profiles/EdilbertoMorais"><img src="https://user-images.githubusercontent.com/93222241/194132901-88bb2326-270f-489a-8fda-81634f461b88.png" target="_blank"></a>
 
  ![Snake animation](https://github.com/EdilbertoMorais/EdilbertoMorais/blob/output/github-contribution-grid-snake.svg)
 </div>
