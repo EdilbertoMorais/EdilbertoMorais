@@ -7,10 +7,6 @@
 - 📫  Você pode me achar no <a href="https://www.linkedin.com/in/edilbertocmorais">Linkedin</a>
 ##
 
-<div>
- <h1>Para conhecer um pouco mais onde trabalho, clique na imagem abaixo:</h1>
- <a href="https://landing.solfacil.com.br" target="_blank"><img align="center" width="980" alt="SF_wallpaper @2x" height="340" src="https://user-images.githubusercontent.com/93222241/194133331-e041a2b8-a4db-4291-89ef-b1d9ed844e9c.png">
-
 <!-- <a href="https://github.com/EdilbertoMorais">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilbertoMorais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoMorais&layout=compact&langs_count=7&theme=radical"/> -->
