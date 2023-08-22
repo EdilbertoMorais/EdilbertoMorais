@@ -7,8 +7,11 @@
   
 
 - 🔭 Atualmente estou estudando programação na  [Alura](https://github.com/alura-cursos) , [Udemy](https://www.udemy.com/), [Dio](https://www.dio.me/) e participando de Bootcamps.
-  
 
+
+- 📚 Estarei iniciando o curso de formação superior em Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/), em Fevereiro de 2024, com previsão de termino em Dezembro de 2026.
+
+  
 - 🚚 Estou em transição de carreira, saindo do setor de transportes por onde passei longos 14 anos, me dedicando e me tornando um profissional altamente qualificado.  
   
 
@@ -36,7 +39,8 @@
 ##
 <div> 
  
- ## 👥 Você pode me achar nos links abaixo:
+ ## 👥 Quer me conhecer um pouco melhor?
+  ### fica a vontade para visitar os links abaixo:
 
 <a href="https://wa.me/5511981488561" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/edilbertocmorais#5753" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -44,16 +48,6 @@
 <a href = "mailto:edilbertocmorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/Edilberto_Morais"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "https://exercism.org/profiles/EdilbertoMorais"><img src="https://img.shields.io/badge/Exercism-800080?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
-
-
-
-<!--
-<a href="https://exercism.org/profiles/EdilbertoMorais">
-    <img src="https://user-images.githubusercontent.com/93222241/194132901-88bb2326-270f-489a-8fda-81634f461b88.png" alt="Imagem" width="117" height="29" style="max-width: 100">
-</a> 
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
-<a href="https://exercism.org/profiles/EdilbertoMorais"><img src="https://user-images.githubusercontent.com/93222241/194132901-88bb2326-270f-489a-8fda-81634f461b88.png" target="_blank"/></a> 
-<!---->
 
 ##
 </div>
