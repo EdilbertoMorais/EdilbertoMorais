@@ -6,7 +6,7 @@
 ### <div align="center">Sou Edilberto, um desenvolvedor Java em formação 👨‍💻 </div>  
   
 
-- 🔭 Atualmente estou estudando programação na  [Alura](https://github.com/alura-cursos)  
+- 🔭 Atualmente estou estudando programação na  [Alura](https://github.com/alura-cursos) , [Udemy](https://www.udemy.com/), [Dio](https://www.dio.me/) e participando de Bootcamps.
   
 
 - 🚚 Estou em transição de carreira, saindo do setor de transportes por onde passei longos 14 anos, me dedicando e me tornando um profissional altamente qualificado.  
