@@ -46,7 +46,6 @@
 <a href="https://exercism.org/profiles/EdilbertoMorais" target="_blank"><img src=https://user-images.githubusercontent.com/93222241/194132901-88bb2326-270f-489a-8fda-81634f461b88.png alt=facebook style="margin-bottom: 4px;" />
 </a>
 
- ![Snake animation](https://github.com/EdilbertoMorais/EdilbertoMorais/blob/output/github-contribution-grid-snake.svg)
 </div>
  
  <h1 align="center"
