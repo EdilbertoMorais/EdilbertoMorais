@@ -6,7 +6,7 @@
 ### <div align="center">Sou Edilberto, um desenvolvedor Java em formação 👨‍💻 </div>  
   
 
-- 🔭 Atualmente estou estudando programação na  [Alura](https://github.com/alura-cursos) , [Udemy](https://www.udemy.com/), [Dio](https://www.dio.me/) e participando de Bootcamps. Você pode conferir meus certificados nas pastas acima.
+- 🔭 Atualmente estou estudando programação na  [Alura](https://github.com/alura-cursos) , [Udemy](https://www.udemy.com/), [Dio](https://www.dio.me/) e participando de Bootcamps. Você pode conferir meus certificados neste [Repositório](https://github.com/EdilbertoMorais/EdilbertoMorais) .
 
 
 - 📚 Estarei iniciando o curso de formação superior em Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/), em Fevereiro de 2024, com previsão de termino em Dezembro de 2026.
