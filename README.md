@@ -24,29 +24,31 @@
 ##
 💻 Skills
 <div style="display: inline_block"><br>
-<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Edilberto-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-<img align="center" alt="Edilberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Edilberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Edilberto-ELIXIR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
-<img align="center" alt="MySQL" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" /></a>
-<img align="center" alt="Git" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" /></a>
-<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
-<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">
-<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg">
-<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_ga=2.147663863.1582775840.1697227137-499510733.1689370823&_gl=1*m5718d*_ga*NDk5NTEwNzMzLjE2ODkzNzA4MjM.*_ga_9J976DJZ68*MTY5NzIyNzEzNy4zMy4xLjE2OTcyMjcxNzMuMjQuMC4w">
+<img align="center" alt="Edilberto-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Edilberto-JAVA" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+<img align="center" alt="Edilberto-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Edilberto-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Edilberto-ELIXIR" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+<img align="center" alt="MySQL" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" /></a>
+<img align="center" alt="Git" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" /></a>
+<img align="center" alt="Edilberto-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img align="center" alt="Edilberto-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="50" width="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_ga=2.147663863.1582775840.1697227137-499510733.1689370823&_gl=1*m5718d*_ga*NDk5NTEwNzMzLjE2ODkzNzA4MjM.*_ga_9J976DJZ68*MTY5NzIyNzEzNy4zMy4xLjE2OTcyMjcxNzMuMjQuMC4w">
 
-<img align="right" alt="Edilberto-pic" height="150" style="border-radius:50px;" src="https://docmanagement.com.br/wp-content/uploads/2021/01/1-7.jpg">
 </div>
 
 ##
-<div> 
- 
- ## 👥 Quer me conhecer um pouco melhor?
-  ### fica a vontade para visitar os links abaixo:
+<div>
+  <img align="right" alt="Edilberto-pic" height="150" style="border-radius:50px;" src="https://docmanagement.com.br/wp-content/uploads/2021/01/1-7.jpg">
+</div>
+
+  ## 
+  ##### 👥 Quer me conhecer um pouco melhor?
+  ##### 👀 Fique a vontade para visitar os links abaixo⤵️
 
 <a href="https://www.linkedin.com/in/edilbertocmorais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://wa.me/5511981488561" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
