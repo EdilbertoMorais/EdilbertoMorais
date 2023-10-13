@@ -31,7 +31,13 @@
 <img align="center" alt="Edilberto-ELIXIR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
 <img align="center" alt="MySQL" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" /></a>
 <img align="center" alt="Git" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" /></a>
-
+<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+<img align="center" alt="Edilberto-Js" height="30" width="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_ga=2.147663863.1582775840.1697227137-499510733.1689370823&_gl=1*m5718d*_ga*NDk5NTEwNzMzLjE2ODkzNzA4MjM.*_ga_9J976DJZ68*MTY5NzIyNzEzNy4zMy4xLjE2OTcyMjcxNzMuMjQuMC4w">
 
 <img align="right" alt="Edilberto-pic" height="150" style="border-radius:50px;" src="https://docmanagement.com.br/wp-content/uploads/2021/01/1-7.jpg">
 </div>
