@@ -11,7 +11,7 @@ Seja bem-vindo visitante! 👋
   
 ### <div align="center">Sou Edilberto, um desenvolvedor Java em formação 👨‍💻 </div>  
 
-- 📚 Estou matriculado para o curso de graduação em Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/), com início em Fevereiro de 2024, e previsão de termino em Dezembro de 2025.
+- 📚 Estou me graduando em Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/), com início em Fevereiro de 2024, e previsão de termino em Dezembro de 2025.
 
 - 🔭 Complemento os estudos em programação nas Escolas de Cursos Técnicos  [Alura](https://github.com/alura-cursos) , [Udemy](https://www.udemy.com/), [Dio](https://www.dio.me/) e participando de Bootcamps. Você pode conferir meus certificados neste [Repositório](https://github.com/EdilbertoMorais/EdilbertoMorais) .
 
