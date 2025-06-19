@@ -28,20 +28,26 @@ Seja bem-vindo visitante! 👋
 ##
 💻 Skills
 <div style="display: inline_block">
-    <img align="center" alt="Edilberto-Js" style="margin-right: 20px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Edilberto-JAVA" style="margin-right: 20px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Edilberto-HTML" style="margin-right: 20px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Edilberto-CSS" style="margin-right: 20px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Edilberto-ELIXIR" style="margin-right: 20px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
-    <img align="center" alt="MySQL" style="margin-right: 20px;" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
-    <img align="center" alt="Git" style="margin-right: 20px;" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">
-    <img align="center" alt="Edilberto-Js" style="margin-right: 20px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
-    <img align="center" alt="Edilberto-Js" style="margin-right: 20px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">
-    <img align="center" alt="Edilberto-Js" style="margin-right: 20px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Edilberto-Js" style="margin-right: 20px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" alt="Edilberto-Js" style="margin-right: 20px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg">
-    <img align="center" alt="Edilberto-Js" style="margin-right: 20px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-    <img align="center" alt="Edilberto-Js" style="margin-right: 20px;" height="50" width="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_ga=2.147663863.1582775840.1697227137-499510733.1689370823&_gl=1*m5718d*_ga*NDk5NTEwN73LjE2ODkzNzA4MjM.*_ga_9J976DJZ68*MTY5NzIyNzEzNy4zMy4xLjE2OTcyMjcxNzMuMjQuMC4w">
+    <img align="center" alt="Javascript" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Java" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Kotlin" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
+    <img align="center" alt="CSharp" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+    <img align="center" alt="HTML" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="ELIXIR" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+    <img align="center" alt="Git" style="margin: 10px;" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">
+    <img align="center" alt="GitHub" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+    <img align="center" alt="GitLab" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">
+    <img align="center" alt="Linux" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Android" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
+    <img align="center" alt="MySQL" style="margin: 10px;" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
+    <img align="center" alt="PostgreSQL" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" alt="Spring" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+    <img align="center" alt="JetpackCompose" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg">
+    <img align="center" alt="JetBrains" style="margin: 10px;" height="50" width="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_ga=2.147663863.1582775840.1697227137-499510733.1689370823&_gl=1*m5718d*_ga*NDk5NTEwN73LjE2ODkzNzA4MjM.*_ga_9J976DJZ68*MTY5NzIyNzEzNy4zMy4xLjE2OTcyMjcxNzMuMjQuMC4w">
+    <img align="center" alt="Spring" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original-wordmark.svg">
+    <img align="center" alt="Slack" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg">
+    <img align="center" alt="Figma" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div>
 
 
