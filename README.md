@@ -30,6 +30,7 @@ Seja bem-vindo visitante! 👋
 <div style="display: inline_block">
   <img align="center" alt="Java" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Kotlin" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center" alt="Dotnet" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt="Javascript" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CSharp" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
   <img align="center" alt="HTML" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
