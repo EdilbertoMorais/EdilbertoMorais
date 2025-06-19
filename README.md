@@ -11,10 +11,10 @@ Seja bem-vindo visitante! 👋
   
 ### <div align="center">Sou Edilberto, um desenvolvedor Java em formação 👨‍💻 </div>  
 
-- 🔭 Atualmente estou estudando programação nas Escolas de Cursos Técnicos  [Alura](https://github.com/alura-cursos) , [Udemy](https://www.udemy.com/), [Dio](https://www.dio.me/) e participando de Bootcamps. Você pode conferir meus certificados neste [Repositório](https://github.com/EdilbertoMorais/EdilbertoMorais) .
+- 📚 Estou matriculado para o curso de graduação em Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/), com início em Fevereiro de 2024, e previsão de termino em Dezembro de 2025.
 
-- 📚 Estou matriculado para o curso de graduação em Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/), com início previsto para 15 de Fevereiro de 2024, e previsão de termino em Dezembro de 2026.
-  
+- 🔭 Complemento os estudos em programação nas Escolas de Cursos Técnicos  [Alura](https://github.com/alura-cursos) , [Udemy](https://www.udemy.com/), [Dio](https://www.dio.me/) e participando de Bootcamps. Você pode conferir meus certificados neste [Repositório](https://github.com/EdilbertoMorais/EdilbertoMorais) .
+
 - 🚚 Estou em transição de carreira, saindo do setor de transportes por onde passei longos 14 anos, me dedicando e me tornando um profissional altamente qualificado.
 
 - 🖥️ Participei de um Bootcamp Elixir, e fui selecionado dentre mais de 2000 candidatos para trabalhar na [SolFácil](https://landing.solfacil.com.br/) como Análista de Desenvolvimento, por onde permaneci até o fim do projeto de Trainees.
@@ -28,9 +28,9 @@ Seja bem-vindo visitante! 👋
 ##
 💻 Skills
 <div style="display: inline_block">
-  <img align="center" alt="Javascript" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Kotlin" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center" alt="Javascript" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CSharp" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
   <img align="center" alt="HTML" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" style="margin: 10px;" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -60,7 +60,13 @@ Seja bem-vindo visitante! 👋
 
 ###
 <div style="display: inline_block">
+  <img align="center" alt="Docker" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+</div>
+
+###
+<div style="display: inline_block">
   <img align="center" alt="JetBrains" style="margin: 10px;" height="50" width="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg?_ga=2.147663863.1582775840.1697227137-499510733.1689370823&_gl=1*m5718d*_ga*NDk5NTEwN73LjE2ODkzNzA4MjM.*_ga_9J976DJZ68*MTY5NzIyNzEzNy4zMy4xLjE2OTcyMjcxNzMuMjQuMC4w">
+   <img align="center" alt="Intellij" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Rider" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original-wordmark.svg">
   <img align="center" alt="Slack" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg">
   <img align="center" alt="Figma" style="margin: 10px;" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
